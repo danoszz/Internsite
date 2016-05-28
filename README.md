@@ -1,36 +1,26 @@
-# FastShell
-[![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
+# internsite
 
-inspired by [FireShell](http://getfireshell.com)
-Fiercely quick front-end boilerplate and workflows.
+## A trip down internship-lane.
 
-The opinionated FastShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
+**_The full documentation of my 10 weeks at [Lucas &amp; Mallee](http://www.lucasenmallee.nl/) as an Front-end Developer._**
 
-* Source: [github.com/HosseinKarami/fastshell](http://github.com/HosseinKarami/fastshell)
-* Documentation: [DOCS.md](https://github.com/HosseinKarami/fastshell/blob/master/DOCS.md)
-* HomePage: [Fastshell](https://HosseinKarami.github.io/fastshell)
+During this period I wrote many lines of code, drank ~~a lot of~~ beer and offcourse; learned many things*
+
+###*These kind of things:
+
++ Gulp.js build system
++ Cloud9 development tool
++ SCSS and Sass preprocessing languages
++ LESS HTML
++ Complicated CSS3 Animations
++ BEM and SMACCS Syntax
++ The office manager Balthy barks to everything with four legs, hair and tail.
++ Working with GIT(hub)
++[Fastshell](http://github.com/HosseinKarami/fastshell)
++ Advanced jQuery and Javascript
++ The Red Light District is a place full of high and drunk tourists, but I love it
 
 
-## License
+Run index.html to see my documentation (instead of the old paper one) and enjoy!
 
-#### The MIT License (MIT)
-
-Copyright (c) FastShell
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+~Daan
